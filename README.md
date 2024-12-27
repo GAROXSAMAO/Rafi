@@ -23,6 +23,10 @@ MY INTERNSHIP PROJECT 1
 
 ## Lucky Trianika
 Tugas saya ( https://github.com/triannika/Tutorial-Git/tree/main/Triannika )
+
+## Rafi Rizal Ramdani
+Tugas saya ( https://github.com/GAROXSAMAO/MyGUIProject )
+
 ### Bagas
 Help my Study Application
 [My Code (Click Here !)](Bagas/)
